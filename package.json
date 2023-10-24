@@ -1,7 +1,6 @@
 {
   "name": "bhoka1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/tanmaykushwaha/Bhoka/issues"
   },
-  "homepage": "https://github.com/tanmaykushwaha/Bhoka#readme"
+  "homepage": "https://github.com/tanmaykushwaha/Bhoka#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
 }
