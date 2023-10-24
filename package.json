@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tanmaykushwaha/Bhoka/issues"
   },
-  "homepage": "https://github.com/tanmaykushwaha/Bhoka#readme"
+  "homepage": "https://github.com/tanmaykushwaha/Bhoka#readme",
+  "dependencies": {
+    "mongoose": "^7.6.3"
+  }
 }
